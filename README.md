@@ -9,10 +9,11 @@
 
 
 ```javascript
-//Programador novel que busca superarse cada día con diferentes retos, para ser mejor que ayer
+//Programador novel que busca superarse cada día con diferentes retos
+//para ser mejor que ayer
 const jhonatan = {
   lenguajes: [Javascript, HTML, CSS, Php, Java, MySQL],
-  herramientas: [JQuery, Bootstrap, Codeigniter, Hibernate, Drupal, WordPress, OpenCMS],
+  herramientas: [JQuery, Bootstrap, Codeigniter, Hibernate, Drupal, OpenCMS],
   aficiones: "Escuchar música" | "Jugar a videojuegos",
   lemas: {
             "Sin prisas pero sin pausas", 
