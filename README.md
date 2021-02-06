@@ -1,10 +1,9 @@
 <h2> Buenas, me llamo Jhonatan Ruiz 👋 </h2>
 
-<p> <small>(Aunque aquí soy <em> xjhruiz </em>😆😄 </small>)</p>
-<h3> Bienvenido a mi✨ _repositorio_personal_ ✨😉   </h3>
+<p> <small>Aunque aquí soy <em> xjhruiz </em>😆😄 </small></p>
 
+### Bienvenido a mi ✨ _repositorio_personal_ ✨😉
 
-  
 ### <img src="https://media.giphy.com/media/KfHzHBL5X3Z57WxhFq/giphy.gif" width="50" > Un poco sobre mi...  
 
 
