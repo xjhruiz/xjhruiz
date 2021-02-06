@@ -1,7 +1,7 @@
 <h2> Buenas, me llamo Jhonatan Ruiz 👋 </h2>
 
 <p> <small>(Aunque aquí soy <em> xjhruiz </em>😆😄 </small>)</p>
-<p> Bienvenido a mi✨ _repositorio_ ✨ personal 😉   </p>
+<h3> Bienvenido a mi✨ _repositorio_personal_ ✨😉   </h3>
 
 
   
