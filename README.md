@@ -25,9 +25,12 @@ const JHONATAN = {
 ```
 
 
-<h2 align="center">Puedes encontrarme en : <a href="https://www.linkedin.com/in/jhonatanruiz97">
+<h2 align="center">Puedes encontrarme en 🌎: </h2>
+<p align="center" >
+  <a  href="https://www.linkedin.com/in/jhonatanruiz97">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jhonatan Ruiz" height="30" width="30">
-  </a> </h2>
+  </a> 
+</p>
   
   <h4 align="center"> Lenguajes más usados :tongue:</h4>
 
