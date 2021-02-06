@@ -1,4 +1,4 @@
-<h2> Buenas 👋 , me llamo Jhonatan Ruiz</h2>
+<h2> Buenas, me llamo Jhonatan Ruiz 👋 </h2>
 
 <p> <small>Aunque aquí soy <em> xjhruiz </em>😆😄 </small></p>
 <p> Bienvenido a mi✨ _repositorio_ ✨ personal 😉   </p>
