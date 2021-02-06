@@ -10,7 +10,7 @@
 
 ```javascript
 //Programador novel que busca superarse cada día con diferentes retos, para ser mejor que ayer
-const JHONATAN = {
+const jhonatan = {
   lenguajes: [Javascript, HTML, CSS, Php, Java, MySQL],
   herramientas: [JQuery, Bootstrap, Codeigniter, Hibernate, Drupal, WordPress, OpenCMS],
   aficiones: "Escuchar música" | "Jugar a videojuegos",
