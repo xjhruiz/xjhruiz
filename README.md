@@ -30,7 +30,7 @@ const jhonatan = {
   </a> 
 </p>
   
-  <h4 align="center"> Lenguajes más usados :tongue:</h4>
+  <h4 align="center"> Lenguajes más usados </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjhruiz&langs_count=5&theme=cobalt&layout=compact" alt="lenguajes más usados" /></p>
 
